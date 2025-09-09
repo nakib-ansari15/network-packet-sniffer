@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Logs & PCAP files
+*.pcap
+*.csv
+*.log
